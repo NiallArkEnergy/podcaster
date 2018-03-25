@@ -1,0 +1,9 @@
+.vscode
+elm-stuff
+node_modules
+src
+elm-package.json
+package.json
+package-lock.json
+
+
